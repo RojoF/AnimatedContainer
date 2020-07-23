@@ -1,6 +1,6 @@
 # Animated Container
 
-A demonstration of the visual power of flutter
+A demostration of the visual power of flutter
 
 ## Getting Started
 
