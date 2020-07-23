@@ -1,6 +1,6 @@
-# animated_container
+# Animated Container
 
-A new Flutter project.
+A demonstration of the visual power of flutter
 
 ## Getting Started
 
