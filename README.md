@@ -4,6 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto es un punto de partida para una aplicación Flutter.
+![Animation](animated_container.gif)
 
 
